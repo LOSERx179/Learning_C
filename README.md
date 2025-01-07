@@ -1,3 +1,3 @@
 # Learning_C
-All About C That I Am Learning
-Author - LOSERx179
+All About C That I Am Learning.
+
